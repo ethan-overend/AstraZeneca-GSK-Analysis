@@ -9,7 +9,7 @@
 
 | | AstraZeneca | GSK |
 |---|---|---|
-| Total return | [18.1]% | [14.2]% |
+| Total return | 18.1% | [14.2]% |
 | Annualised return | [4.2]% | [3.4]% |
 | Annualised volatility | [23.9]% | [23.5]% |
 
